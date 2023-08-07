@@ -1,0 +1,29 @@
+
+h1{
+    text-align: center;
+ text-shadow: -3px -3px 5px hsl(209, 84%, 52%),3px 3px 5px hsl(0, 88%, 53%);;
+  font-size: 40px;
+  
+}
+
+div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+pre::after{
+    content: "🥳";
+}
+p{
+    text-align: center;
+    font-size: 40;
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(17, 0, 92);
+    
+}
+footer{
+    background-color: rgb(182, 124, 240);
+    text-align: center;
+
+}
